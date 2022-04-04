@@ -1,0 +1,3 @@
+[submodule "Poker-hand"]
+	path = Poker-hand
+	url = https://github.com/sherryren1020/Poker-hand
